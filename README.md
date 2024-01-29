@@ -24,3 +24,20 @@ Welcome to BookWorm, where book lovers unite to create study rooms, discuss lite
 - **Database:** Django database
 
 Happy Reading and Collaborating! 📚✨
+
+Homepage:
+<img width="1434" alt="Screenshot 2024-01-28 at 6 29 24 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/d5bef7e3-594c-41f8-b047-d1d42717e249">
+
+
+Create a Reading room:
+<img width="1432" alt="Screenshot 2024-01-28 at 6 29 43 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/6b627a56-cc79-4fd2-9835-1bb39e3f3c08">
+
+
+Secure login and Sign up:
+<img width="1431" alt="Screenshot 2024-01-28 at 6 30 19 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/a234e32d-edbb-4653-bdf7-ae318791f878">
+
+Delete messages and rooms you created:
+<img width="677" alt="Screenshot 2024-01-28 at 6 31 39 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/3e9dbb54-798e-4840-a9e6-04872a8a376a">
+
+
+
