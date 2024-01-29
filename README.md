@@ -1,5 +1,5 @@
 
-# BookWorm: Connect, Collaborate, and Converse!
+# BookWorm: Connect, Collaborate, and Converse! 📚🐛
 
 Welcome to BookWorm, where book lovers unite to create study rooms, discuss literature, and engage in meaningful conversations. This platform is designed to foster a global community of students passionate about books. Dive into the world of knowledge, collaboration, and friendship!
 
