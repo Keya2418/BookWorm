@@ -36,8 +36,17 @@ Create a Reading room:
 Secure login and Sign up:
 <img width="1431" alt="Screenshot 2024-01-28 at 6 30 19 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/a234e32d-edbb-4653-bdf7-ae318791f878">
 
-Delete messages and rooms you created:
-<img width="677" alt="Screenshot 2024-01-28 at 6 31 39 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/3e9dbb54-798e-4840-a9e6-04872a8a376a">
 
+view recent activity:
+<img width="1349" alt="Screenshot 2024-01-28 at 6 32 39 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/b1171a8e-fc80-4b0a-98fb-c9fb5e6679b5">
+
+
+chat rooms with participants information:
+<img width="1429" alt="Screenshot 2024-01-28 at 6 33 09 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/c9eba2aa-1ca7-4b70-bd3c-61bfdf116fe9">
+
+
+Delete messages and rooms you created:
+
+<img width="677" alt="Screenshot 2024-01-28 at 6 31 39 PM" src="https://github.com/Keya2418/BookWorm/assets/113224365/3e9dbb54-798e-4840-a9e6-04872a8a376a">
 
 
